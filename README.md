@@ -91,14 +91,6 @@ def make_graph(stock_data, revenue_data, stock_name):
     fig.show()
 ```
 
-## Example Visualisations
-### Tesla Stock Prices and Revenue
-
-<img src="example_tesla_graph.png" alt="Tesla Stock Graph" width="600">
-
-### GameStop Stock Prices and Revenue
-
-<img src="example_gme_graph.png" alt="GameStop Stock Graph" width="600">
 
 ## Challenges and Learnings
 1. **Web Scraping:** Handling dynamic content and multiple table classes.
